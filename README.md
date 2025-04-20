@@ -1,4 +1,4 @@
-# MelodyVault Sample Database
+# MelodyVault Database
 
 **MelodyVault** is a modern sample database for SQL-based systems, designed to simulate a digital media store. It’s ideal for demos, ORM testing, and educational purposes across multiple platforms.
 
